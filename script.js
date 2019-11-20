@@ -6,7 +6,7 @@ function init(){
 
  
   button.addEventListener("click", function () {
-    alert("James Dumitru: " + text.value);
+    alert("Jocelyne Herrera: " + text.value);
     document.getElementById("textoutput").innerHTML = text.value
 	});
 
